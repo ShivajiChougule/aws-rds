@@ -3,7 +3,7 @@ import psycopg2
 from decimal import Decimal
 
 
-db_host = 'serverless-backend.cluster-cdtrga72dt1a.ap-south-1.rds.amazonaws.com'
+db_host = 'serverless-backend.cluster-cdtrga72dt1a.ap-south-1.rds.amazonaws.com' 
 db_port = '5432'
 db_name = 'auroratestdb'
 db_user = 'shiva'
